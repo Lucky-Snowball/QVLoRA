@@ -1,3 +1,3 @@
 # QVLoRA
-QVLoRA: Query-Guided and Layer-Aware Efficient Visual Modulation for MLLMs <br>
+Select What Matters, Modulate Where Needed: Query-Guided Visual Compression for Multimodal Large Language Models <br>
 Our code will be released soon.
